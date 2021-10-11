@@ -1,0 +1,11 @@
+C:\Users\nlarsen\RiderProjects\StatePatternExample\StatePatternExample\bin\Debug\netcoreapp3.1\StatePatternExample.exe
+C:\Users\nlarsen\RiderProjects\StatePatternExample\StatePatternExample\bin\Debug\netcoreapp3.1\StatePatternExample.deps.json
+C:\Users\nlarsen\RiderProjects\StatePatternExample\StatePatternExample\bin\Debug\netcoreapp3.1\StatePatternExample.runtimeconfig.json
+C:\Users\nlarsen\RiderProjects\StatePatternExample\StatePatternExample\bin\Debug\netcoreapp3.1\StatePatternExample.runtimeconfig.dev.json
+C:\Users\nlarsen\RiderProjects\StatePatternExample\StatePatternExample\bin\Debug\netcoreapp3.1\StatePatternExample.dll
+C:\Users\nlarsen\RiderProjects\StatePatternExample\StatePatternExample\bin\Debug\netcoreapp3.1\StatePatternExample.pdb
+C:\Users\nlarsen\RiderProjects\StatePatternExample\StatePatternExample\obj\Debug\netcoreapp3.1\StatePatternExample.csprojAssemblyReference.cache
+C:\Users\nlarsen\RiderProjects\StatePatternExample\StatePatternExample\obj\Debug\netcoreapp3.1\StatePatternExample.AssemblyInfoInputs.cache
+C:\Users\nlarsen\RiderProjects\StatePatternExample\StatePatternExample\obj\Debug\netcoreapp3.1\StatePatternExample.AssemblyInfo.cs
+C:\Users\nlarsen\RiderProjects\StatePatternExample\StatePatternExample\obj\Debug\netcoreapp3.1\StatePatternExample.dll
+C:\Users\nlarsen\RiderProjects\StatePatternExample\StatePatternExample\obj\Debug\netcoreapp3.1\StatePatternExample.pdb
